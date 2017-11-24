@@ -67,9 +67,31 @@
 <h3>Teste n°8</h3>
 <p>
 	Retirar os valores duplicados de um array. <br/>
+	Verificar se a uma string está no final de outra <br/>	
+	Crie um script para fazer uma tabela númerica 6x6 <br/>
 	<a href="testes/teste8.php" target="_blank">Link para o resultado</a>
 </p>
-<!--w3resource 28 -->
+
+<h3>Teste n°9</h3>
+<p>	
+	Escreva um script para mostrar a primeira letra que não foi repetida na palavra. <br/>
+	Escreva um método que multiplique os valores de duas listas passadas de mesmo tamanho e retorne outra lista com os valores modificados. <br/>
+	Ex.: lista 1 2 3  lista 2 3 4 , lista resultado 2 6 12. Multiplicar um valor pelo outro. <br/>
+	Escreva uma função que retorna a soma dos dígitos de um valor passado. Ex "123" o resultado é 6 pq somou todos os numeros. <br/>
+	<a href="testes/teste9.php" target="_blank">Link para o resultado</a>
+</p>
+
+<h3>Teste n°10</h3>
+<p>
+	Escreva o texto a seguir substituindo as palavras pelos itens do array. <br/>
+	$color = array('white', 'green', 'red', 'blue', 'black'); <br/>
+	"The memory of that scene for me is like a frame of film forever frozen at that moment: the red carpet, the green lawn, the white house, the leaden sky. The new president and his first lady. - Richard M. Nixon". <br/> 
+	Escreva um PHP script que mostre o array dentro de uma lista ordenada : <br/>
+	 $color = array('preto','azul', 'verde', 'vermelho', 'roxo', 'rosa') <br/>
+	 <a href="testes/teste10.php" target="_blank">Link para o resultado</a>
+	 
+</p>
+<!--w3resource arrays 2 -->
 
 
 
