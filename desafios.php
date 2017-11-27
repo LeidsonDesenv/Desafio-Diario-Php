@@ -88,12 +88,91 @@
 	"The memory of that scene for me is like a frame of film forever frozen at that moment: the red carpet, the green lawn, the white house, the leaden sky. The new president and his first lady. - Richard M. Nixon". <br/> 
 	Escreva um PHP script que mostre o array dentro de uma lista ordenada : <br/>
 	 $color = array('preto','azul', 'verde', 'vermelho', 'roxo', 'rosa') <br/>
+	 Escreva um PHP script que irá mostrar o array na ordem alfabética pelos nomes das capitais, mostrando País e Capital. <br/>
+	 <pre>$ceu = array( "Italy"=>"Rome",
+	  "Luxembourg"=>"Luxembourg",
+	   "Belgium"=> "Brussels", 
+	   "Denmark"=>"Copenhagen",
+	    "Finland"=>"Helsinki",
+	    "France" => "Paris", 
+	    "Slovakia"=>"Bratislava",
+	    "Slovenia"=>"Ljubljana",
+	    "Germany" => "Berlin", 
+	    "Greece" => "Athens", 
+	    "Ireland"=>"Dublin",
+	    "Netherlands"=>"Amsterdam", 
+	    "Portugal"=>"Lisbon", 
+	    "Spain"=>"Madrid",
+	    "Sweden"=>"Stockholm",
+	    "United Kingdom"=>"London",
+	    "Cyprus"=>"Nicosia", 
+	    "Lithuania"=>"Vilnius",
+	    "Czech Republic"=>"Prague",
+	    "Estonia"=>"Tallin",
+	    "Hungary"=>"Budapest",
+	    "Latvia"=>"Riga",
+	    "Malta"=>"Valetta",
+	    "Austria" => "Vienna",
+	    "Poland"=>"Warsaw") ; </pre>
 	 <a href="testes/teste10.php" target="_blank">Link para o resultado</a>
 	 
 </p>
-<!--w3resource arrays 2 -->
+
+<h3>Teste n°11</h3>
+<p>
+Delete um elemento do array e depois seu indices devem ser atualizados. <br/>
+array(5) { [0]=> int(1) [1]=> int(2) [2]=> int(3) [3]=> int(4) [4]=> int(5) } </p>
+<p>
+Escrever um script que retorne o primeiro item do array a seguir. <br/>
+ $colors = array(4 => 'white', 6 => 'green', 11=> 'red'); 
+</p>
+<p>
+Escrever um script para decodificar o seguint Json string : <br/>
+{"Title": "The Cuckoos Calling",
+"Author": "Robert Galbraith",
+"Detail": {
+"Publisher": "Little Brown"
+}} <br/>
+
+</p>
+
+<p>
+Escreva um script que permite inserir um item em qualquer posição de um array. <br/>
+	<a href="testes/teste11.php" target="_blank">Link para o resultado</a>	
+</p>
+
+<h3>Teste n°12</h3>
+<p>
+Escreva um script que irá ordenar o array associativo a seguir: <br/>
+array("Sophia"=>"31","Jacob"=>"41","William"=>"39","Ramesh"=>"40") <br/>
+a) Ascendente por Valor <br>
+b) Ascendente por Chave <br>
+c) Descendente por Valor <br>
+d) Descendente por Chave <br>	
+</p>
+
+<p>
+	Calcule a média de temperatura e mostre as 7 maiores e 7 menores temperaturas. <br/>
+	Temperaturas registradas : 78, 60, 62, 68, 71, 68, 73, 85, 66, 64, 76, 63, 75, 76, 73, 68, 62, 73, 72, 65, 74, 62, 62, 65, 64, 68, 73, 75, 79, 73 <br/>	
+</p>
+
+<p>
+	Mude o conteúdo do array para só letras maiúsculas e depois para minúsculas. <br/>
+	
+</p>
+<p>
+	Escreva um script que mostre quais são os números entre 200 e 250 que são divisivos por 4. <br/>
+	<a href="testes/teste12.php" target="_blank">Link para o resultado</a>	
+</p>
 
 
+<h3>Teste n°13</h3>
+<p>
+	Escreva um script que verifica qual é a maior e menor string dentro de um array. <br/>
+	Ex.: array("abcd","abc","de","hjjj","g","wer")
+	<a href="testes/teste13.php" target="_blank">Link para o resultado</a>	
+</p>
+<!--w3resource arrays 14 -->
 
 </body>
 </html>
